@@ -1,9 +1,7 @@
 # Hi there, I'm Swapnil Gedam 👋  
 
 ## 🔐 About Me  
-I'm a passionate **Cybersecurity Professional** with experience in **Data Loss Prevention (DLP), Security Operations, and Image Processing**. My goal is to strengthen enterprise security by identifying vulnerabilities, mitigating risks, and implementing robust security measures.  
-
-Currently, I'm working as a **DLP Analyst at IBM**, where I handle **Forcepoint DLP health checks, incident management, and work order processing**.  
+I'm a passionate **Cybersecurity Professional** with experience in **Data Loss Prevention (DLP), Security Operations, and Image Processing**. My goal is to strengthen enterprise security by identifying vulnerabilities, mitigating risks, and implementing robust security measures. 
 
 ---
 
